@@ -1,5 +1,5 @@
 {
-  "name": "ngx-swiper-wrapper",
+  "name": "ngx-swiper-wrapper-gated",
   "description": "Angular wrapper library for Swiper",
   "bugs": "https://github.com/zefoy/ngx-swiper-wrapper/issues",
   "license": "MIT",
